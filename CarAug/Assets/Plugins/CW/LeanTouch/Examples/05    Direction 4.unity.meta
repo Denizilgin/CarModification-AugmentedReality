@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9f2e12e189bfe64087696f16aaa9ddf
+timeCreated: 1470136439
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/05    Direction 4.unity
+  uploadId: 619404

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f91f425854e5c9a4b99f0b1501bef8b8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/package.json
+  uploadId: 619404

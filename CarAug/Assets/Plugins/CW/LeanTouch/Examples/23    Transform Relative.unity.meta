@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac9caf83cfcbe894eab16c237b2aeb74
+timeCreated: 1475336619
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/23    Transform Relative.unity
+  uploadId: 619404

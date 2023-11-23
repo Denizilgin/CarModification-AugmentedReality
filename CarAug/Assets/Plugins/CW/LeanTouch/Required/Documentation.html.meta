@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 798f690f309c3ff428933f2ca60759d0
+timeCreated: 1589790149
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Required/Documentation.html
+  uploadId: 619404

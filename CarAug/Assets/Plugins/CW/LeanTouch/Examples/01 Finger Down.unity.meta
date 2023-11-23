@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6e339405953bb94eb24436b8bcf3a6e
+timeCreated: 1490412094
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/01 Finger Down.unity
+  uploadId: 619404

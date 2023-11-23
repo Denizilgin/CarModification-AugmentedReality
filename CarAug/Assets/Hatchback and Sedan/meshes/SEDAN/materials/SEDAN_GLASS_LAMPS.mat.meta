@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0665f626cc5314f42800fb7ae6899d8d
+timeCreated: 1515248344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/meshes/SEDAN/materials/SEDAN_GLASS_LAMPS.mat
+  uploadId: 222664

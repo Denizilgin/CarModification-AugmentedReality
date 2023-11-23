@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f8a8df52a6a010419a54c0d9d135121
+timeCreated: 1515248344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/meshes/SEDAN/materials/SEDAN_GLASS.mat
+  uploadId: 222664

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4bdc6564e585124a8993f8804665a2f
+timeCreated: 1495519260
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/scenes/demo.unity
+  uploadId: 222664

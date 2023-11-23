@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2a63f1f28575a549abdfbc4eb9b28d2
+timeCreated: 1497330679
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/Prefabs/Demo.prefab
+  uploadId: 619404

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41769b539e248db4c90886964a88c143
+timeCreated: 1493909981
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/meshes/HATCHBACK/materials/HATCHBACK_1988_GLASS.mat
+  uploadId: 222664

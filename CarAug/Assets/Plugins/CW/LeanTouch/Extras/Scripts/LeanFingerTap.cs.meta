@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f7c1c71d8ad5da9438de3b2e5990763f
+timeCreated: 1480375544
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanFingerTap.cs
+  uploadId: 619404

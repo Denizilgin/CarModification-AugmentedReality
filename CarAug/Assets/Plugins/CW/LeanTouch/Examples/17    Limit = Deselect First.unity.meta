@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ff9b8a646d45e64182dafde410dce07
+timeCreated: 1475336619
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/17    Limit = Deselect First.unity
+  uploadId: 619404

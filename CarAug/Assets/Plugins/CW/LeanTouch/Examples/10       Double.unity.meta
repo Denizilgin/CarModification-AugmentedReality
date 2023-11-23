@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ba993e45bd8bc540a58ab0bf1a234f5
+timeCreated: 1480141504
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/10       Double.unity
+  uploadId: 619404

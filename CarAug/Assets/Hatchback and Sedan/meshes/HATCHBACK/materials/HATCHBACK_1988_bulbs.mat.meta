@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c90a675775f754542bb64d4882c99929
+timeCreated: 1493909981
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/meshes/HATCHBACK/materials/HATCHBACK_1988_bulbs.mat
+  uploadId: 222664

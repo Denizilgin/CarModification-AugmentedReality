@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf8f951ad11fad745a3633b12fa09ed4
+timeCreated: 1515248344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/meshes/SEDAN/materials/SEDAN.mat
+  uploadId: 222664

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e75bcbf9fc009e7499be19cd0a6d834f
+timeCreated: 1490412094
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/02 Finger Up.unity
+  uploadId: 619404

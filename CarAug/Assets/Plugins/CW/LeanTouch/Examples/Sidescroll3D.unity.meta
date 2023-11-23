@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4efc2379fae650d43b7a9c114f6e5772
+timeCreated: 1486013872
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/Sidescroll3D.unity
+  uploadId: 619404

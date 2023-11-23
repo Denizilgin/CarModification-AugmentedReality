@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e278200a08f9b9f419a13f87e9559ab1
+timeCreated: 1485999709
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanDragCamera.cs
+  uploadId: 619404

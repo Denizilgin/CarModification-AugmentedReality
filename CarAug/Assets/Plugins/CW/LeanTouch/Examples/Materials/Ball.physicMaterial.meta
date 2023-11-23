@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 432080eddf3bc2449a2c54573812900e
+timeCreated: 1475156231
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/Materials/Ball.physicMaterial
+  uploadId: 619404

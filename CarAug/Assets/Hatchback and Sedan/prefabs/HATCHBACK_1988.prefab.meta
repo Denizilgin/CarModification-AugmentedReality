@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec91b949a29ea3b4fb7e070fe48ff1c2
+timeCreated: 1493998678
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/prefabs/HATCHBACK_1988.prefab
+  uploadId: 222664

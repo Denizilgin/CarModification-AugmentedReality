@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d949f33aae55df4d92d64ec31581556
+timeCreated: 1474810484
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/Shared/Common/Examples/Shaders/RimAlpha.shader
+  uploadId: 619404

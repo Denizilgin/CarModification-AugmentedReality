@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f9171443d9b9d6a43828384e72e752f2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: ed1b96e11e9064957833ce8c01da6f92, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/Shared/Common/Extras/Shaders/CW_HDRP.surfshader
+  uploadId: 619404

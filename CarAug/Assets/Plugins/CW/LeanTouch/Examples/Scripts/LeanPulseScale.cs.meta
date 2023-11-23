@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d2cf6a4604a9b1c488ead15354d556b3
+timeCreated: 1474724095
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/Scripts/LeanPulseScale.cs
+  uploadId: 619404

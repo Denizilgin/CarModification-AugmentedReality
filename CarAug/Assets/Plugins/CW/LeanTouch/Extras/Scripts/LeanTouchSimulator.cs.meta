@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 801d0d506e4503f4cb8729e3868bb030
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Extras/Scripts/LeanTouchSimulator.cs
+  uploadId: 619404

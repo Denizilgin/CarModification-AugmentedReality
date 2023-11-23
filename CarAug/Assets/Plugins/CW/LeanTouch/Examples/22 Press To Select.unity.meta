@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd2a463cb86fbad4b92c709ebaf2b843
+timeCreated: 1475336619
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/22 Press To Select.unity
+  uploadId: 619404

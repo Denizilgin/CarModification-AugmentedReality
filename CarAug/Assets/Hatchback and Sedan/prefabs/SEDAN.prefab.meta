@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f9a1168ab73c884bb900de3b6909c10
+timeCreated: 1515327885
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/prefabs/SEDAN.prefab
+  uploadId: 222664

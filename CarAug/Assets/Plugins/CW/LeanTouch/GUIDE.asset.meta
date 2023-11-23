@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 88c231c083fde9e4bbc1a7fbb9bb0009
+timeCreated: 1564648639
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/GUIDE.asset
+  uploadId: 619404

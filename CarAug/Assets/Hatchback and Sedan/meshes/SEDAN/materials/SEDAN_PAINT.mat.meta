@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84ff8b76061080a4c962cdb20bd8e70f
+timeCreated: 1515248344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/meshes/SEDAN/materials/SEDAN_PAINT.mat
+  uploadId: 222664

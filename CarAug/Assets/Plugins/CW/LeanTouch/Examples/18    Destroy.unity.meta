@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12f8ad357a87bf440bade5f78a603168
+timeCreated: 1475336619
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/18    Destroy.unity
+  uploadId: 619404

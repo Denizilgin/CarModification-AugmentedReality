@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b3ef602f5de7e44fb2613b044fa2008
+timeCreated: 1493909981
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89876
+  packageName: Hatchback and Sedan
+  packageVersion: 1.1
+  assetPath: Assets/Hatchback and Sedan/meshes/HATCHBACK/materials/HATCHBACK_1988.mat
+  uploadId: 222664

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 748227db34677044da44badff4bbdb65
+timeCreated: 1490412094
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 30111
+  packageName: Lean Touch
+  packageVersion: 3.0.1
+  assetPath: Assets/Plugins/CW/LeanTouch/Examples/11 Finger Old.unity
+  uploadId: 619404
